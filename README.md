@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Hamidreza Majd Navaei
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning more about Java web application develop
-- 💞️ I’m looking to collaborate on Java full stack development projects in a larg company
 - 📫 How to reach me? My email is Hamid.Navaei.92@gmail.com
 
 <!---
